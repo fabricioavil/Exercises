@@ -30,7 +30,6 @@ print(
 )
 print("The jumble is:", jumble , "\n")
 
-
 helped = ""
 guess = "none"
 while guess != correct and guess != "":

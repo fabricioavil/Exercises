@@ -1,7 +1,6 @@
 import random
 import string
 
-
 letters = ["a","b","c","d"]
 new = ""
 
